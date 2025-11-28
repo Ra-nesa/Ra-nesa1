@@ -88,7 +88,9 @@ This portfolio highlights my dashboards, visual analytics, and business insights
 - 📌 Strong Analytical Mindset  
 - 📌 Effective Communicator  
 
----
+
+
+###
 
 ## 📫 **Contact Me**
 
